@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="enter_name_text">Enter you Name</string>
+    <string name="first_ques_text">Equation 20 + 25 =</string>
+    <string name="num_ques_one">1</string>
+    <string name="num_ques_two">2</string>
+    <string name="num_ques_three">3</string>
+    <string name="num_ques_four">4</string>
+    <string name="num_ques_five">5</string>
+    <string name="second_ques_text">Equation 10 + 5 =</string>
+    <string name="third_ques_text">Equation 200 + 100 = 300</string>
+    <string name="four_ques_text">Equation 4 + 6 =</string>
+    <string name="fivth_ques_text">Equation 50 + 100 =</string>
+    <string name="choice_one_ques_one">45</string>
+    <string name="choice_two_ques_one">35</string>
+    <string name="choice_three_ques_one">45</string>
+    <string name="choice_four_ques_one">30</string>
+    <string name="choice_one_ques_three">Yes</string>
+    <string name="choice_two_ques_three">No</string>
+    <string name="choice_one_ques_four">5</string>
+    <string name="choice_two_ques_four">20</string>
+    <string name="choice_three_ques_four">10</string>
+    <string name="choice_one_ques_five">80</string>
+    <string name="choice_two_ques_five">150</string>
+    <string name="choice_three_ques_five">200</string>
+    <string name="submit_text">Submit</string>
+    <string name="reset_text">Reset</string>
+</resources>
